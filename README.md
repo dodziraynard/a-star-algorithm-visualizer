@@ -1,6 +1,6 @@
-# A \* Algorithm Visualizer
+# A \* Path Finding Algorithm Visualizer
 
-A \* Algorithm visualizer using python and pygame.
+A \* Path Finding Algorithm visualizer using python and pygame.
 
 ## Installation
 
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 python .\astar.py
 ```
 
-Click the starting point on the grid.
-Click the ending point on the grid.
-Draw the block by clicking in the grids.
-Press space to start the visualizer.
+- Click the starting point on the grid.
+- Click the ending point on the grid.
+- Draw the block by clicking in the grids.
+- Press space to start the visualizer.
