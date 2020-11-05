@@ -21,3 +21,5 @@ python .\astar.py
 - Click the ending point on the grid.
 - Draw the block by clicking in the grids.
 - Press space to start the visualizer.
+
+![Visualizer Running](./screenshot.png)
